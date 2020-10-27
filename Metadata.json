@@ -1,0 +1,20 @@
+{
+    "Author": "jlaari",
+    "ContentSize": 2368,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/changewebtestsstate/master/Change-WebtestsState.ps1",
+    "DownloadCount": 539,
+    "Id": "Change-WebtestsState-c4bd812e",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 540,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-3-21T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Azure Automation runbook enables or disables all Application Insights web tests from resource group. This runbooks needs AzureRunAsConnection.",
+    "Title": "Change-WebtestsState",
+    "UpdatedDate": "2017-3-21T00:00:00",
+    "Url": "https://github.com/azureautomation/changewebtestsstate",
+    "UserTags": "Microsoft Azure, Runbook, Windows Azure PowerShell"
+}
